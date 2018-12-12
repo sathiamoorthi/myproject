@@ -1,0 +1,28 @@
+git commands :
+
+- to check installed location
+		
+		which git
+- To check git version
+		
+		git —version
+Get copy of whole repository
+- git clone <url>
+
+list all the branches
+- Git branch -a
+
+Switch to branch and code
+- Git checkout <branchname>
+
+Check status
+- Git status
+
+Add all the files
+- Git add . (All files)
+
+Commit files
+- Git commit -m
+
+Push the files
+- Git push
